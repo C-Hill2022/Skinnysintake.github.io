@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Skinnys Intake</title>
-        <link href="./Resources/index.css" rel="stylesheet">
+        <link href="index.css" rel="stylesheet">
     </head>
      <body> 
         <h1 > Welcome to Skinny's Repair Shop</h1>
