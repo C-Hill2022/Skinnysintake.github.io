@@ -35,7 +35,7 @@ button:active{
 /*controls hero image size*/
 .image {
     display: block;
-    float: center;
+    float: right;
     max-width: 60%;
     max-height: 60%;
 }
